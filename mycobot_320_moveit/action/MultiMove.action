@@ -1,0 +1,8 @@
+# Goal
+robot_goals[] targetPosition
+---
+# Result
+string result
+---
+# Feedback
+string actualPosition
